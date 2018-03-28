@@ -1,3 +1,7 @@
+<form action="http://crykitty.github.io/">
+    <input type="submit" value="HOME" />
+</form>
+
 <form action="http://crykitty.github.io/spreadsheet.html">
     <input type="submit" value="SPREADSHEET" />
 </form>
