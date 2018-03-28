@@ -2,9 +2,11 @@
     <input type="submit" value="HOME" />
 </form>
 
+
 <form action="http://crykitty.github.io/spreadsheet.html">
     <input type="submit" value="SPREADSHEET" />
 </form>
+
 
 <form action="http://crykitty.github.io/reviews.html">
     <input type="submit" value="REVIEWS" />
