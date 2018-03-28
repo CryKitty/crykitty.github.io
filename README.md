@@ -5,3 +5,7 @@ I maintain a spreadsheet containing a list of games I've played with various bit
 Please let me know what you think, and enjoy your visit!
 
 <button type="button">Click Me!</button>
+
+<form action="http://crykitty.github.io/spreadsheet.html">
+    <input type="submit" value="Gaming Spreadsheet" />
+</form>
