@@ -1,3 +1,5 @@
-Welcome! This is a basic site documenting my gaming history and thoughts. I maintain a spreadsheet containing a list of games I've played with various bits of data on each of those games, including how long I played them and an overall score I gave it. I will also be working on individual game reviews and posting them here for games I feel are deserving of such time and thought.
+Welcome! This is a basic site documenting my gaming history and habits. 
 
-Please let me know what you think, and joy your visit!
+I maintain a spreadsheet containing a list of games I've played with various bits of data on each of those games, including (but not limited to) how long I played them and an overall score I gave it. I will also be working on individual game reviews and posting them here for games I feel are deserving of such time and thought.
+
+Please let me know what you think, and enjoy your visit!
