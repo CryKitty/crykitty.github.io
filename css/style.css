@@ -69,7 +69,8 @@ hr {
 	margin-bottom: 30px;
 	border: 0;
 }
-/* Navigation */
+
+/* ============================= Navigation ============================= */
 #menu {
 	padding: 20px;
 	transition: all 0.8s;
@@ -207,7 +208,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	line-height: 21px;
 }
 
-/*============================= Reviews Section =============================*/
+/* ============================= Reviews Section ============================= */
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -352,7 +366,8 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
-/* Contact Section */
+
+/* ============================= Master List Section ============================= */
 #contact {
 	padding: 120px 0 60px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
